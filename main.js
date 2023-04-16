@@ -15,7 +15,7 @@ function Emp(i, n, s) {
 
 }
 
-const e = new Emp(103,"Amy", 1200);
+const e = new Emp(103,"eli", 1200);
 console.log(e);
 
 
